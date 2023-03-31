@@ -1,6 +1,6 @@
 Name:		texlive-keyindex
 Version:	50828
-Release:	1
+Release:	2
 Summary:	Index entries by key lookup
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyindex
