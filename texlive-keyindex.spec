@@ -3,7 +3,7 @@ Version:	50828
 Release:	2
 Summary:	Index entries by key lookup
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyindex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/keyindex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyindex.doc.r%{version}.tar.xz
